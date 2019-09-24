@@ -1,6 +1,8 @@
+
 TODO
 =====
 
-Add all the other base16 themes
-add conversion script"# base16-windows-terminal" 
-# base16-windows-terminal
+* Add the rest of the colorschemes
+* Add auto generation script
+* Is there a real file format that autoloads these?
+* If not patch script that edits the config and adds them automatically
